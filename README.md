@@ -1,4 +1,4 @@
-![Banner](https://github.com/DevArt002/devart.git/blob/master/img/banner.jpg)
+![Banner](https://github.com/DevArt002/DevArt002/blob/master/img/banner.jpg)
 
 ### Hello! 👋
 
