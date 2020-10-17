@@ -2,13 +2,17 @@
 
 ### Hello! 👋
 
-### I love writing code. Ever since I was writing my first program in Javascript and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
+### I am a senior web developer with demonstrated history for web development.
 
 Skills/Interests: 
 
-    1. React.js, Vue.js, PHP, Laravel and Node.js
-    2. Three.js, Babylon.js as 3D/WebGL frameworks
-    3. D3.js, ChartJS, Recharts, n3-charts, Highcharts for chart creation
-    4. XR(AR/VR/MR)
-    5. iOS&Android app development with Swift, Java and React Native
+    1. Javascript, C#/.Net, Java, Python, C/C++ (*Programming Languages*)
+    2. React.js, Redux, Mobx, Vue.js, Next.js, Nuxt.js, Gatsby.js, Meteor.js, Ember.js (*Frontend dev skills*)
+    3. Node.js, Express.js, PHP, Laravel 5, MERN/MEVN (*Full Stack/Backend dev skills*)
+    4. Three.js, Babylon.js, WebGL, GLSL, Canvas (*3D Frontend dev skills*)
+    5. D3.js, ChartJS, Recharts, n3-charts, Highcharts (*Chart drawing skills*)
+    6. React Native, Ionic (*Cross-platform mobile app dev skills*)
+    7. XR(AR/VR/MR) (*Interests as a 3D dev*)
+   
+*LET'S INNOVATE EVERYTHING POSSIBLE!*
 
