@@ -5,7 +5,7 @@
 ### I am a senior web software engineer with demonstrated history.
 ### My strenth is to fully understand what clients and product owners want. I am passionate about making things happen by hard-working.
 
-**Skills/Interests:
+**Skills/Interests**
 
    1. *Programming Languages*
    
