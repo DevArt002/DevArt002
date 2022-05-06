@@ -1,4 +1,4 @@
-### I am a creative web engineer with demonstrated history, specialized in Frontend and WebGL visualization development.
+### I am a creative web engineer, specialized in Frontend and WebGL development.
 
 **Skillset**
 
