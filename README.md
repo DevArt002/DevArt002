@@ -1,5 +1,3 @@
-![Banner](https://github.com/DevArt002/DevArt002/blob/master/img/banner.jpg)
-
 ### I am a creative web engineer with demonstrated history, specialized in Frontend and WebGL visualization development.
 
 **Skillset**
