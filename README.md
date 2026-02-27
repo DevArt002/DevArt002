@@ -1,18 +1,6 @@
-### I am a creative web engineer, specialized in Frontend and WebGL development.
+### I build complex, high-performance applications for the web, with a focus on interactive systems and real-time data. My recent work has centered on digital twin platforms, where I helped shape browser-based design tools and improved rendering and application performance at scale. I enjoy solving deep performance challenges, refining architecture in evolving systems, and turning ambitious product ideas into reliable production software.
 
-**Skillset**
-
-   1. *Programming Languages*
-   
-      JavaScript, TypeScript, ECMAScript, HTML, CSS, Sass, Java, C/C++, C#/.Net, Python, GLSL, PHP
-      
-   2. *Frontend dev skills* 
-   
-      React.js, Redux, Next.js, Gatsby.js, Styled-components, Framer-motion, D3.js, eCharts, C++, WebGL, etc.
-      
-   3. *Full Stack/Backend dev skills*
-   
-      Node.js, Express.js, PHP, Laravel 5, MERN/MEVN 
+[Portfolio](https://mattc-dev.com)
       
    
 **Thank you!**
